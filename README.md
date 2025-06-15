@@ -1,0 +1,1 @@
+This is my first attempt in the Titanic dataset competition from Kaggle, I'll be using Aurélien Géron's methodology. 
